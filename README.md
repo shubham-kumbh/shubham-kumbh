@@ -1,3 +1,6 @@
+# Hi, I'm Shubham Kumbhar 👋
+About Me
+Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel. Passionate about transforming raw data into actionable insights through analytics, visualization, and business intelligence. Continuously learning and building projects to solve real-world business problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhamkumbhar598) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhkumbhar7999@gmail.com ) 
