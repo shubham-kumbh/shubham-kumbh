@@ -1,5 +1,6 @@
 # Hi, I'm Shubham Kumbhar 👋
 About Me
+
 Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel. Passionate about transforming raw data into actionable insights through analytics, visualization, and business intelligence. Continuously learning and building projects to solve real-world business problems.
 
 ## Education 
