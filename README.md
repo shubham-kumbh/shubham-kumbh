@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Banne%20.png" alt="Shubham Kumbhar Banner" width="100%">
+</p>
 
 # Hi, I'm Shubham Kumbhar 👋
 About Me
