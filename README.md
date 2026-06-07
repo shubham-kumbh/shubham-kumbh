@@ -39,14 +39,7 @@ Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel. Passionate ab
 ---
 [![](https://komarev.com/ghpvc/?username=shubham-kumbh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
